@@ -1,4 +1,4 @@
-package CreationaDP.SingletonDP;
+package CreationalDP.SingletonDP;
 
 public class SingletonObject {
 

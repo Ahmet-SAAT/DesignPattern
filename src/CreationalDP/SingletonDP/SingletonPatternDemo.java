@@ -1,4 +1,4 @@
-package CreationaDP.SingletonDP;
+package CreationalDP.SingletonDP;
 
 public class SingletonPatternDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CreationaDP.FactoryDP;
+package CreationalDP.FactoryDP;
 
 public class ShapeFactory {
 
